@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1417867023 source:c:\users\xxz\desktop\huofuman\main.cpp
+	<iostream>
+	<string>
+	<functional>
+	<map>
+	<vector>
+	<queue>
+	<utility>
+	<bitset>
+	<fstream>
+	<cassert>
+	<algorithm>
+
+1417970934 source:c:\users\ac_xxz\desktop\»ô·òÂü\Ñ¹Ëõ\main.cpp
+	<iostream>
+	<string>
+	<functional>
+	<map>
+	<vector>
+	<queue>
+	<utility>
+	<bitset>
+	<fstream>
+	<cassert>
+	<algorithm>
+
+1418955956 source:c:\users\ac_xxz\desktop\»ô·òÂüÔ­Âë\Ñ¹Ëõ\main.cpp
+	<iostream>
+	<string>
+	<functional>
+	<map>
+	<vector>
+	<queue>
+	<bitset>
+	<fstream>
+	<cassert>
+	<algorithm>
+

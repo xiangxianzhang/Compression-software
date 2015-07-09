@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1417867386 source:c:\users\xxz\desktop\½âÑ¹\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<queue>
+	<utility>
+	<bitset>
+	<fstream>
+	<cassert>
+	<algorithm>
+
+1418272249 source:c:\users\ac_xxz\desktop\»ô·òÂüÔ­Âë\½âÑ¹\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<queue>
+	<utility>
+	<bitset>
+	<fstream>
+	<cassert>
+	<algorithm>
+
